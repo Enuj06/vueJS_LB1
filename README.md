@@ -1,4 +1,4 @@
-# june
+# LB1_BCP
 
 ## Project setup
 ```
